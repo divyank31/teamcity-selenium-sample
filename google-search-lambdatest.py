@@ -45,7 +45,7 @@ class LTAutomate(unittest.TestCase):
             'version' :  "67.0",
             # Resolution of machine
             "resolution": "1024x768", 
-            "name": "Azure pipeline extension google search test ",
+            "name": "Teamcity integration google search test ",
             "build": os.getenv('LT_BUILD_NAME') ,
             "network": True,
             "video": True,
